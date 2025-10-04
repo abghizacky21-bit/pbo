@@ -15,5 +15,5 @@ const mhs1 = new Mahasiswa("Abgh1", "23012345", "Teknik Informatika");
 mhs1.belajar();
 
 const mhs2 = new Mahasiswa("Udin", "23012355", "Teknik Informatika");
-mhs1.belajar();
+mhs2.belajar();
 
